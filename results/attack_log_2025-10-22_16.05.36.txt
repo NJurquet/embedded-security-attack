@@ -1,0 +1,207 @@
+Glitch run started: 2025-10-22T16:05:36.056553
+Parameters: repeat range (10, 100), ext_offset range (1, 2000)
+============================================================
+
+[2025-10-22T16:05:36.058569] Trying repeat=10, ext_offset=1
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.074343] Trying repeat=10, ext_offset=201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.085521] Trying repeat=10, ext_offset=401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.090606] Trying repeat=10, ext_offset=601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.090606] Trying repeat=10, ext_offset=801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.103826] Trying repeat=10, ext_offset=1001
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.108918] Trying repeat=10, ext_offset=1201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.111869] Trying repeat=10, ext_offset=1401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.121814] Trying repeat=10, ext_offset=1601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.127449] Trying repeat=10, ext_offset=1801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.130002] Trying repeat=20, ext_offset=1
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.138527] Trying repeat=20, ext_offset=201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.142644] Trying repeat=20, ext_offset=401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.148103] Trying repeat=20, ext_offset=601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.155043] Trying repeat=20, ext_offset=801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.158342] Trying repeat=20, ext_offset=1001
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.158342] Trying repeat=20, ext_offset=1201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.158342] Trying repeat=20, ext_offset=1401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.167902] Trying repeat=20, ext_offset=1601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.171818] Trying repeat=20, ext_offset=1801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.175850] Trying repeat=30, ext_offset=1
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.177033] Trying repeat=30, ext_offset=201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.177033] Trying repeat=30, ext_offset=401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.185553] Trying repeat=30, ext_offset=601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.188269] Trying repeat=30, ext_offset=801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.189625] Trying repeat=30, ext_offset=1001
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.191995] Trying repeat=30, ext_offset=1201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.195774] Trying repeat=30, ext_offset=1401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.195774] Trying repeat=30, ext_offset=1601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.198948] Trying repeat=30, ext_offset=1801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.198948] Trying repeat=40, ext_offset=1
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.204926] Trying repeat=40, ext_offset=201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.208165] Trying repeat=40, ext_offset=401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.212427] Trying repeat=40, ext_offset=601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.214976] Trying repeat=40, ext_offset=801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.214976] Trying repeat=40, ext_offset=1001
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.221668] Trying repeat=40, ext_offset=1201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.223426] Trying repeat=40, ext_offset=1401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.225716] Trying repeat=40, ext_offset=1601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.225716] Trying repeat=40, ext_offset=1801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.225716] Trying repeat=50, ext_offset=1
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.233821] Trying repeat=50, ext_offset=201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.233821] Trying repeat=50, ext_offset=401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.239677] Trying repeat=50, ext_offset=601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.244144] Trying repeat=50, ext_offset=801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.244144] Trying repeat=50, ext_offset=1001
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.244144] Trying repeat=50, ext_offset=1201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.244144] Trying repeat=50, ext_offset=1401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.258555] Trying repeat=50, ext_offset=1601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.259820] Trying repeat=50, ext_offset=1801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.264479] Trying repeat=60, ext_offset=1
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.264479] Trying repeat=60, ext_offset=201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.271610] Trying repeat=60, ext_offset=401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.273327] Trying repeat=60, ext_offset=601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.273327] Trying repeat=60, ext_offset=801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.279038] Trying repeat=60, ext_offset=1001
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.282876] Trying repeat=60, ext_offset=1201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.282876] Trying repeat=60, ext_offset=1401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.288334] Trying repeat=60, ext_offset=1601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.291338] Trying repeat=60, ext_offset=1801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.294469] Trying repeat=70, ext_offset=1
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.298852] Trying repeat=70, ext_offset=201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.303703] Trying repeat=70, ext_offset=401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.306296] Trying repeat=70, ext_offset=601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.308466] Trying repeat=70, ext_offset=801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.311721] Trying repeat=70, ext_offset=1001
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.311721] Trying repeat=70, ext_offset=1201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.311721] Trying repeat=70, ext_offset=1401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.321556] Trying repeat=70, ext_offset=1601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.325308] Trying repeat=70, ext_offset=1801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.328603] Trying repeat=80, ext_offset=1
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.331625] Trying repeat=80, ext_offset=201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.331625] Trying repeat=80, ext_offset=401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.331625] Trying repeat=80, ext_offset=601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.339438] Trying repeat=80, ext_offset=801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.339438] Trying repeat=80, ext_offset=1001
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.347591] Trying repeat=80, ext_offset=1201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.347591] Trying repeat=80, ext_offset=1401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.347591] Trying repeat=80, ext_offset=1601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.358045] Trying repeat=80, ext_offset=1801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.358943] Trying repeat=90, ext_offset=1
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.358943] Trying repeat=90, ext_offset=201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.366296] Trying repeat=90, ext_offset=401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.371544] Trying repeat=90, ext_offset=601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.374523] Trying repeat=90, ext_offset=801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.375186] Trying repeat=90, ext_offset=1001
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.384684] Trying repeat=90, ext_offset=1201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.388278] Trying repeat=90, ext_offset=1401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.394959] Trying repeat=90, ext_offset=1601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.398944] Trying repeat=90, ext_offset=1801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.398944] Trying repeat=100, ext_offset=1
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.407716] Trying repeat=100, ext_offset=201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.407716] Trying repeat=100, ext_offset=401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.415984] Trying repeat=100, ext_offset=601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.421699] Trying repeat=100, ext_offset=801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.424185] Trying repeat=100, ext_offset=1001
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.424185] Trying repeat=100, ext_offset=1201
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.438369] Trying repeat=100, ext_offset=1401
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.443568] Trying repeat=100, ext_offset=1601
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+[2025-10-22T16:05:36.443568] Trying repeat=100, ext_offset=1801
+  Exception while opening/using serial: could not open port 'COM7': PermissionError(13, 'Accès refusé.', None, 5)
+
+============================================================
+Glitch run finished: 2025-10-22T16:05:36.443568

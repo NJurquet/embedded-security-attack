@@ -1,0 +1,1156 @@
+Glitch run started: 2025-10-22T16:06:20.295505
+Parameters: repeat range (10, 100), ext_offset range (1, 2000)
+============================================================
+
+[2025-10-22T16:06:20.295505] Trying repeat=10, ext_offset=1
+	Attempt 1 - time 2025-10-22T16:06:20.295505
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:20.467906
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:20.627911
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:20.781377
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:20.936593
+	  >> ACCESS DENIED
+	  Enter password:
+[2025-10-22T16:06:21.091930] Trying repeat=10, ext_offset=201
+	Attempt 1 - time 2025-10-22T16:06:21.100799
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:21.259778
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:21.418157
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:21.577784
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:21.735070
+	  >> ACCESS DENIED
+	  Enter password:
+[2025-10-22T16:06:21.916693] Trying repeat=10, ext_offset=401
+	Attempt 1 - time 2025-10-22T16:06:21.919789
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:22.090019
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:22.246289
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:22.407174
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:22.567913
+	  >> ACCESS DENIED
+	  Enter password:
+[2025-10-22T16:06:22.730191] Trying repeat=10, ext_offset=601
+	Attempt 1 - time 2025-10-22T16:06:22.730191
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:22.898859
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:23.056071
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:23.217421
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:23.383891
+	  >> ACCESS DENIED
+	  Enter password:
+[2025-10-22T16:06:23.555172] Trying repeat=10, ext_offset=801
+	Attempt 1 - time 2025-10-22T16:06:23.559171
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:23.714094
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:23.878672
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:24.036647
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:24.201584
+	  >> ACCESS DENIED
+	  Enter password:
+[2025-10-22T16:06:24.371572] Trying repeat=10, ext_offset=1001
+	Attempt 1 - time 2025-10-22T16:06:24.371572
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:24.536996
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:24.693168
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:24.835331
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:25.002803
+	  >> ACCESS DENIED
+	  Enter password:
+[2025-10-22T16:06:25.164863] Trying repeat=10, ext_offset=1201
+	Attempt 1 - time 2025-10-22T16:06:25.172884
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:25.330657
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:25.488380
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:25.651066
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:25.815786
+	  >> ACCESS DENIED
+	  Enter password:
+[2025-10-22T16:06:25.988773] Trying repeat=10, ext_offset=1401
+	Attempt 1 - time 2025-10-22T16:06:25.991094
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:26.154444
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:26.314321
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:26.469535
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:26.631972
+	  >> ACCESS DENIED
+	  Enter password:
+[2025-10-22T16:06:26.790122] Trying repeat=10, ext_offset=1601
+	Attempt 1 - time 2025-10-22T16:06:26.795511
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:26.954888
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:27.110331
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:27.268189
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:27.429535
+	  >> ACCESS DENIED
+	  Enter password:
+[2025-10-22T16:06:27.590537] Trying repeat=10, ext_offset=1801
+	Attempt 1 - time 2025-10-22T16:06:27.597598
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:27.755079
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:27.915019
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:28.076279
+	  >> ACCESS DENIED
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:28.235170
+	  >> ACCESS DENIED
+	  Enter password:
+[2025-10-22T16:06:28.407005] Trying repeat=20, ext_offset=1
+	Attempt 1 - time 2025-10-22T16:06:28.407005
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:28.622374
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:28.823423
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:29.035492
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:29.237750
+	  Enter password:
+[2025-10-22T16:06:29.444308] Trying repeat=20, ext_offset=201
+	Attempt 1 - time 2025-10-22T16:06:29.448417
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:29.656785
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:29.862338
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:30.067899
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:30.265922
+	  Enter password:
+[2025-10-22T16:06:30.461493] Trying repeat=20, ext_offset=401
+	Attempt 1 - time 2025-10-22T16:06:30.468856
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:30.664984
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:30.877899
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:31.090364
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:31.297755
+	  Enter password:
+[2025-10-22T16:06:31.503361] Trying repeat=20, ext_offset=601
+	Attempt 1 - time 2025-10-22T16:06:31.507040
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:31.716192
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:31.921498
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:32.128022
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:32.332523
+	  Enter password:
+[2025-10-22T16:06:32.540782] Trying repeat=20, ext_offset=801
+	Attempt 1 - time 2025-10-22T16:06:32.544984
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:32.749158
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:32.958572
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:33.164900
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:33.373379
+	  Enter password:
+[2025-10-22T16:06:33.577907] Trying repeat=20, ext_offset=1001
+	Attempt 1 - time 2025-10-22T16:06:33.583764
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:33.787609
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:33.997895
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:34.204797
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:34.411445
+	  Enter password:
+[2025-10-22T16:06:34.631165] Trying repeat=20, ext_offset=1201
+	Attempt 1 - time 2025-10-22T16:06:34.632924
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:34.836261
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:35.039937
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:35.247901
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:35.456757
+	  Enter password:
+[2025-10-22T16:06:35.674470] Trying repeat=20, ext_offset=1401
+	Attempt 1 - time 2025-10-22T16:06:35.674470
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:35.876668
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:36.077895
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:36.279930
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:36.477902
+	  Enter password:
+[2025-10-22T16:06:36.683071] Trying repeat=20, ext_offset=1601
+	Attempt 1 - time 2025-10-22T16:06:36.685991
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:36.887615
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:37.097906
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:37.305729
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:37.508316
+	  Enter password:
+[2025-10-22T16:06:37.717682] Trying repeat=20, ext_offset=1801
+	Attempt 1 - time 2025-10-22T16:06:37.724853
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:37.933825
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:38.138279
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:38.348158
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:38.558359
+	  Enter password:
+[2025-10-22T16:06:38.766988] Trying repeat=30, ext_offset=1
+	Attempt 1 - time 2025-10-22T16:06:38.768539
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:38.979824
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:39.189738
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:39.397161
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:39.595519
+	  Enter password:
+[2025-10-22T16:06:39.798657] Trying repeat=30, ext_offset=201
+	Attempt 1 - time 2025-10-22T16:06:39.806910
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:40.014363
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:40.229030
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:40.431543
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:40.638057
+	  Enter password:
+[2025-10-22T16:06:40.861072] Trying repeat=30, ext_offset=401
+	Attempt 1 - time 2025-10-22T16:06:40.864319
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:41.070197
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:41.281248
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:41.489174
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:41.690138
+	  Enter password:
+[2025-10-22T16:06:41.907518] Trying repeat=30, ext_offset=601
+	Attempt 1 - time 2025-10-22T16:06:41.907518
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:42.114695
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:42.311002
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:42.515324
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:42.728524
+	  Enter password:
+[2025-10-22T16:06:42.940208] Trying repeat=30, ext_offset=801
+	Attempt 1 - time 2025-10-22T16:06:42.941718
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:43.150389
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:43.362233
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:43.569437
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:43.780199
+	  Enter password:
+[2025-10-22T16:06:43.994976] Trying repeat=30, ext_offset=1001
+	Attempt 1 - time 2025-10-22T16:06:43.994976
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:44.197176
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:44.406626
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:44.613747
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:44.831183
+	  Enter password:
+[2025-10-22T16:06:45.039228] Trying repeat=30, ext_offset=1201
+	Attempt 1 - time 2025-10-22T16:06:45.042264
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:45.249933
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:45.458258
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:45.667895
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:45.873346
+	  Enter password:
+[2025-10-22T16:06:46.082946] Trying repeat=30, ext_offset=1401
+	Attempt 1 - time 2025-10-22T16:06:46.084928
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:46.290220
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:46.497901
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:46.699904
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:46.902518
+	  Enter password:
+[2025-10-22T16:06:47.112145] Trying repeat=30, ext_offset=1601
+	Attempt 1 - time 2025-10-22T16:06:47.114967
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:47.314155
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:47.520146
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:47.724848
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:47.929932
+	  Enter password:
+[2025-10-22T16:06:48.132895] Trying repeat=30, ext_offset=1801
+	Attempt 1 - time 2025-10-22T16:06:48.140362
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:48.346146
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:48.547900
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:48.754481
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:48.967924
+	  Enter password:
+[2025-10-22T16:06:49.184474] Trying repeat=40, ext_offset=1
+	Attempt 1 - time 2025-10-22T16:06:49.186561
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:49.397904
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:49.597926
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:49.797896
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:50.004477
+	  Enter password:
+[2025-10-22T16:06:50.221000] Trying repeat=40, ext_offset=201
+	Attempt 1 - time 2025-10-22T16:06:50.222755
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:50.426590
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:50.639459
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:50.850240
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:51.058308
+	  Enter password:
+[2025-10-22T16:06:51.272399] Trying repeat=40, ext_offset=401
+	Attempt 1 - time 2025-10-22T16:06:51.272399
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:51.467768
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:51.669121
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:51.867920
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:52.075237
+	  Enter password:
+[2025-10-22T16:06:52.275636] Trying repeat=40, ext_offset=601
+	Attempt 1 - time 2025-10-22T16:06:52.275636
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:52.477749
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:52.679002
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:52.890202
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:53.099230
+	  Enter password:
+[2025-10-22T16:06:53.305116] Trying repeat=40, ext_offset=801
+	Attempt 1 - time 2025-10-22T16:06:53.305834
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:53.497758
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:53.697895
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:53.897906
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:54.106073
+	  Enter password:
+[2025-10-22T16:06:54.315475] Trying repeat=40, ext_offset=1001
+	Attempt 1 - time 2025-10-22T16:06:54.321263
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:54.535764
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:54.737792
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:54.942440
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:55.138827
+	  Enter password:
+[2025-10-22T16:06:55.341246] Trying repeat=40, ext_offset=1201
+	Attempt 1 - time 2025-10-22T16:06:55.349092
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:55.556443
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:55.758405
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:55.967144
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:56.178269
+	  Enter password:
+[2025-10-22T16:06:56.389010] Trying repeat=40, ext_offset=1401
+	Attempt 1 - time 2025-10-22T16:06:56.392396
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:56.593256
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:56.809734
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:57.019203
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:57.222723
+	  Enter password:
+[2025-10-22T16:06:57.432285] Trying repeat=40, ext_offset=1601
+	Attempt 1 - time 2025-10-22T16:06:57.439159
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:57.650182
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:57.852203
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:58.057136
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:58.262750
+	  Enter password:
+[2025-10-22T16:06:58.462511] Trying repeat=40, ext_offset=1801
+	Attempt 1 - time 2025-10-22T16:06:58.465298
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:58.667924
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:58.878861
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:06:59.087643
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:06:59.289628
+	  Enter password:
+[2025-10-22T16:06:59.496302] Trying repeat=50, ext_offset=1
+	Attempt 1 - time 2025-10-22T16:06:59.498055
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:06:59.691469
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:06:59.898166
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:00.106179
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:00.316497
+	  Enter password:
+[2025-10-22T16:07:00.523763] Trying repeat=50, ext_offset=201
+	Attempt 1 - time 2025-10-22T16:07:00.525778
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:00.727899
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:00.938367
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:01.146163
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:01.348131
+	  Enter password:
+[2025-10-22T16:07:01.561312] Trying repeat=50, ext_offset=401
+	Attempt 1 - time 2025-10-22T16:07:01.563326
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:01.758182
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:01.966643
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:02.174514
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:02.386987
+	  Enter password:
+[2025-10-22T16:07:02.607283] Trying repeat=50, ext_offset=601
+	Attempt 1 - time 2025-10-22T16:07:02.607283
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:02.814875
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:03.017887
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:03.222723
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:03.430933
+	  Enter password:
+[2025-10-22T16:07:03.641565] Trying repeat=50, ext_offset=801
+	Attempt 1 - time 2025-10-22T16:07:03.648743
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:03.847894
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:04.059989
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:04.266997
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:04.464855
+	  Enter password:
+[2025-10-22T16:07:04.682308] Trying repeat=50, ext_offset=1001
+	Attempt 1 - time 2025-10-22T16:07:04.684413
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:04.898958
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:05.107753
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:05.307141
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:05.508189
+	  Enter password:
+[2025-10-22T16:07:05.722253] Trying repeat=50, ext_offset=1201
+	Attempt 1 - time 2025-10-22T16:07:05.722253
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:05.919208
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:06.128995
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:06.332790
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:06.526705
+	  Enter password:
+[2025-10-22T16:07:06.732951] Trying repeat=50, ext_offset=1401
+	Attempt 1 - time 2025-10-22T16:07:06.735995
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:06.939329
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:07.145530
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:07.344987
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:07.558726
+	  Enter password:
+[2025-10-22T16:07:07.766233] Trying repeat=50, ext_offset=1601
+	Attempt 1 - time 2025-10-22T16:07:07.776670
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:07.985099
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:08.191731
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:08.397911
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:08.610186
+	  Enter password:
+[2025-10-22T16:07:08.824666] Trying repeat=50, ext_offset=1801
+	Attempt 1 - time 2025-10-22T16:07:08.831833
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:09.031324
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:09.237240
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:09.443837
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:09.645978
+	  Enter password:
+[2025-10-22T16:07:09.857733] Trying repeat=60, ext_offset=1
+	Attempt 1 - time 2025-10-22T16:07:09.864732
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:10.066707
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:10.269209
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:10.478920
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:10.685105
+	  Enter password:
+[2025-10-22T16:07:10.894349] Trying repeat=60, ext_offset=201
+	Attempt 1 - time 2025-10-22T16:07:10.900728
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:11.106151
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:11.313370
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:11.516155
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:11.727897
+	  Enter password:
+[2025-10-22T16:07:11.945046] Trying repeat=60, ext_offset=401
+	Attempt 1 - time 2025-10-22T16:07:11.953665
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:12.164792
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:12.374989
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:12.586092
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:12.797797
+	  Enter password:
+[2025-10-22T16:07:13.016643] Trying repeat=60, ext_offset=601
+	Attempt 1 - time 2025-10-22T16:07:13.023495
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:13.227900
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:13.437719
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:13.637569
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:13.845872
+	  Enter password:
+[2025-10-22T16:07:14.055911] Trying repeat=60, ext_offset=801
+	Attempt 1 - time 2025-10-22T16:07:14.059408
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:14.267920
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:14.475161
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:14.681579
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:14.887566
+	  Enter password:
+[2025-10-22T16:07:15.097251] Trying repeat=60, ext_offset=1001
+	Attempt 1 - time 2025-10-22T16:07:15.100212
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:15.305535
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:15.505112
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:15.716502
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:15.925032
+	  Enter password:
+[2025-10-22T16:07:16.139650] Trying repeat=60, ext_offset=1201
+	Attempt 1 - time 2025-10-22T16:07:16.145722
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:16.356203
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:16.567067
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:16.772772
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:16.976888
+	  Enter password:
+[2025-10-22T16:07:17.195280] Trying repeat=60, ext_offset=1401
+	Attempt 1 - time 2025-10-22T16:07:17.204639
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:17.404163
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:17.615285
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:17.818970
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:18.017745
+	  Enter password:
+[2025-10-22T16:07:18.244475] Trying repeat=60, ext_offset=1601
+	Attempt 1 - time 2025-10-22T16:07:18.249777
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:18.453993
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:18.663336
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:18.858316
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:19.068988
+	  Enter password:
+[2025-10-22T16:07:19.281343] Trying repeat=60, ext_offset=1801
+	Attempt 1 - time 2025-10-22T16:07:19.288041
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:19.488595
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:19.693952
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:19.897791
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:20.104325
+	  Enter password:
+[2025-10-22T16:07:20.325125] Trying repeat=70, ext_offset=1
+	Attempt 1 - time 2025-10-22T16:07:20.333381
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:20.541525
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:20.740262
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:20.940238
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:21.151271
+	  Enter password:
+[2025-10-22T16:07:21.356183] Trying repeat=70, ext_offset=201
+	Attempt 1 - time 2025-10-22T16:07:21.356183
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:21.559136
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:21.764221
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:21.978952
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:22.188723
+	  Enter password:
+[2025-10-22T16:07:22.406190] Trying repeat=70, ext_offset=401
+	Attempt 1 - time 2025-10-22T16:07:22.414362
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:22.621228
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:22.827860
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:23.028004
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:23.236134
+	  Enter password:
+[2025-10-22T16:07:23.449884] Trying repeat=70, ext_offset=601
+	Attempt 1 - time 2025-10-22T16:07:23.457417
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:23.667496
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:23.873687
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:24.078207
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:24.287485
+	  Enter password:
+[2025-10-22T16:07:24.512139] Trying repeat=70, ext_offset=801
+	Attempt 1 - time 2025-10-22T16:07:24.516985
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:24.717929
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:24.916725
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:25.117778
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:25.328552
+	  Enter password:
+[2025-10-22T16:07:25.550278] Trying repeat=70, ext_offset=1001
+	Attempt 1 - time 2025-10-22T16:07:25.558384
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:25.767019
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:25.979301
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:26.188427
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:26.398031
+	  Enter password:
+[2025-10-22T16:07:26.610672] Trying repeat=70, ext_offset=1201
+	Attempt 1 - time 2025-10-22T16:07:26.618268
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:26.828726
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:27.038059
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:27.247687
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:27.449918
+	  Enter password:
+[2025-10-22T16:07:27.663916] Trying repeat=70, ext_offset=1401
+	Attempt 1 - time 2025-10-22T16:07:27.673766
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:27.877901
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:28.077083
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:28.279739
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:28.487484
+	  Enter password:
+[2025-10-22T16:07:28.694603] Trying repeat=70, ext_offset=1601
+	Attempt 1 - time 2025-10-22T16:07:28.701086
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:28.908296
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:29.119867
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:29.326325
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:29.537291
+	  Enter password:
+[2025-10-22T16:07:29.744864] Trying repeat=70, ext_offset=1801
+	Attempt 1 - time 2025-10-22T16:07:29.750197
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:29.954833
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:30.162360
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:30.367912
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:30.572595
+	  Enter password:
+[2025-10-22T16:07:30.792081] Trying repeat=80, ext_offset=1
+	Attempt 1 - time 2025-10-22T16:07:30.798027
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:31.004792
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:31.208295
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:31.407316
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:31.609848
+	  Enter password:
+[2025-10-22T16:07:31.829609] Trying repeat=80, ext_offset=201
+	Attempt 1 - time 2025-10-22T16:07:31.835496
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:32.038511
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:32.243894
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:32.446897
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:32.653900
+	  Enter password:
+[2025-10-22T16:07:32.863102] Trying repeat=80, ext_offset=401
+	Attempt 1 - time 2025-10-22T16:07:32.871425
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:33.079229
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:33.289387
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:33.489750
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:33.688389
+	  Enter password:
+[2025-10-22T16:07:33.909822] Trying repeat=80, ext_offset=601
+	Attempt 1 - time 2025-10-22T16:07:33.911925
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:34.116423
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:34.331731
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:34.539445
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:34.748964
+	  Enter password:
+[2025-10-22T16:07:34.964582] Trying repeat=80, ext_offset=801
+	Attempt 1 - time 2025-10-22T16:07:34.972249
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:35.183588
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:35.385059
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:35.589230
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:35.798721
+	  Enter password:
+[2025-10-22T16:07:36.006138] Trying repeat=80, ext_offset=1001
+	Attempt 1 - time 2025-10-22T16:07:36.008194
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:36.220191
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:36.424289
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:36.639799
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:36.848556
+	  Enter password:
+[2025-10-22T16:07:37.057609] Trying repeat=80, ext_offset=1201
+	Attempt 1 - time 2025-10-22T16:07:37.059363
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:37.264246
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:37.471855
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:37.677896
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:37.890391
+	  Enter password:
+[2025-10-22T16:07:38.095982] Trying repeat=80, ext_offset=1401
+	Attempt 1 - time 2025-10-22T16:07:38.097742
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:38.290328
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:38.503733
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:38.698772
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:38.906019
+	  Enter password:
+[2025-10-22T16:07:39.120984] Trying repeat=80, ext_offset=1601
+	Attempt 1 - time 2025-10-22T16:07:39.124235
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:39.332375
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:39.537282
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:39.737559
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:39.949171
+	  Enter password:
+[2025-10-22T16:07:40.156089] Trying repeat=80, ext_offset=1801
+	Attempt 1 - time 2025-10-22T16:07:40.160518
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:40.365497
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:40.566294
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:40.770493
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:40.972542
+	  Enter password:
+[2025-10-22T16:07:41.185082] Trying repeat=90, ext_offset=1
+	Attempt 1 - time 2025-10-22T16:07:41.188327
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:41.396980
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:41.604934
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:41.806150
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:42.015000
+	  Enter password:
+[2025-10-22T16:07:42.209312] Trying repeat=90, ext_offset=201
+	Attempt 1 - time 2025-10-22T16:07:42.216211
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:42.427925
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:42.634826
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:42.840455
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:43.047916
+	  Enter password:
+[2025-10-22T16:07:43.256367] Trying repeat=90, ext_offset=401
+	Attempt 1 - time 2025-10-22T16:07:43.258940
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:43.459273
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:43.659680
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:43.863343
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:44.069707
+	  Enter password:
+[2025-10-22T16:07:44.280019] Trying repeat=90, ext_offset=601
+	Attempt 1 - time 2025-10-22T16:07:44.284376
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:44.487554
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:44.696292
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:44.898806
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:45.104208
+	  Enter password:
+[2025-10-22T16:07:45.316209] Trying repeat=90, ext_offset=801
+	Attempt 1 - time 2025-10-22T16:07:45.321036
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:45.519780
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:45.723153
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:45.928421
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:46.139237
+	  Enter password:
+[2025-10-22T16:07:46.344661] Trying repeat=90, ext_offset=1001
+	Attempt 1 - time 2025-10-22T16:07:46.351713
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:46.557235
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:46.764627
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:46.966274
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:47.171623
+	  Enter password:
+[2025-10-22T16:07:47.384499] Trying repeat=90, ext_offset=1201
+	Attempt 1 - time 2025-10-22T16:07:47.386251
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:47.581263
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:47.787980
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:47.989312
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:48.194118
+	  Enter password:
+[2025-10-22T16:07:48.396651] Trying repeat=90, ext_offset=1401
+	Attempt 1 - time 2025-10-22T16:07:48.398940
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:48.601057
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:48.803593
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:49.006321
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:49.199207
+	  Enter password:
+[2025-10-22T16:07:49.412570] Trying repeat=90, ext_offset=1601
+	Attempt 1 - time 2025-10-22T16:07:49.414325
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:49.622506
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:49.820282
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:50.029915
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:50.239941
+	  Enter password:
+[2025-10-22T16:07:50.455628] Trying repeat=90, ext_offset=1801
+	Attempt 1 - time 2025-10-22T16:07:50.459810
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:50.667906
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:50.872690
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:51.088772
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:51.290370
+	  Enter password:
+[2025-10-22T16:07:51.497904] Trying repeat=100, ext_offset=1
+	Attempt 1 - time 2025-10-22T16:07:51.506253
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:51.706031
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:51.909952
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:52.110313
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:52.312797
+	  Enter password:
+[2025-10-22T16:07:52.522790] Trying repeat=100, ext_offset=201
+	Attempt 1 - time 2025-10-22T16:07:52.524299
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:52.737507
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:52.946562
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:53.147515
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:53.363090
+	  Enter password:
+[2025-10-22T16:07:53.566179] Trying repeat=100, ext_offset=401
+	Attempt 1 - time 2025-10-22T16:07:53.567964
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:53.767740
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:53.973076
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:54.187506
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:54.396369
+	  Enter password:
+[2025-10-22T16:07:54.615050] Trying repeat=100, ext_offset=601
+	Attempt 1 - time 2025-10-22T16:07:54.615050
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:54.816870
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:55.011247
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:55.208201
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:55.416225
+	  Enter password:
+[2025-10-22T16:07:55.626058] Trying repeat=100, ext_offset=801
+	Attempt 1 - time 2025-10-22T16:07:55.630588
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:55.838177
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:56.044269
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:56.258416
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:56.460294
+	  Enter password:
+[2025-10-22T16:07:56.670287] Trying repeat=100, ext_offset=1001
+	Attempt 1 - time 2025-10-22T16:07:56.674723
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:56.889100
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:57.097905
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:57.297984
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:57.499708
+	  Enter password:
+[2025-10-22T16:07:57.709874] Trying repeat=100, ext_offset=1201
+	Attempt 1 - time 2025-10-22T16:07:57.711886
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:57.920737
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:58.125871
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:58.329141
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:58.537028
+	  Enter password:
+[2025-10-22T16:07:58.740014] Trying repeat=100, ext_offset=1401
+	Attempt 1 - time 2025-10-22T16:07:58.741970
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:58.943546
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:07:59.145394
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:07:59.347167
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:07:59.553344
+	  Enter password:
+[2025-10-22T16:07:59.764752] Trying repeat=100, ext_offset=1601
+	Attempt 1 - time 2025-10-22T16:07:59.766506
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:07:59.967908
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:08:00.174055
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:08:00.373682
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:08:00.579349
+	  Enter password:
+[2025-10-22T16:08:00.789258] Trying repeat=100, ext_offset=1801
+	Attempt 1 - time 2025-10-22T16:08:00.794089
+	  Enter password:
+	Attempt 2 - time 2025-10-22T16:08:01.004126
+	  Enter password:
+	Attempt 3 - time 2025-10-22T16:08:01.221645
+	  Enter password:
+	Attempt 4 - time 2025-10-22T16:08:01.427886
+	  Enter password:
+	Attempt 5 - time 2025-10-22T16:08:01.639140
+	  Enter password:
+
+============================================================
+Glitch run finished: 2025-10-22T16:08:01.849688
